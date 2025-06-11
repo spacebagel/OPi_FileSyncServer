@@ -1,0 +1,4 @@
+/usr/sbin/wifi_connect.sh
+/usr/sbin/wlan0_ip_add.sh
+/usr/sbin/mount_ssd.sh
+exit 0
